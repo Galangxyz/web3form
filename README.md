@@ -1,5 +1,17 @@
 # Web3form
 
+📚 Table of Contents
+=================
+* [🌐 Socials:](#-socials)
+* [Form Kontak](#form-kontak)
+* [Demo](#demo)
+* [Result](#result)
+* [Apa Itu Web3Forms?](#apa-itu-web3forms)
+* [Langkah-langkah Memasang Form Kontak](#langkah-langkah-memasang-form-kontak)
+* [Buat Formulir HTML](#buat-formulir-html)
+   * [Fitur Tambahan](#fitur-tambahan)
+* [Kesimpulan](#kesimpulan)
+
 ![snake_gif](https://github.com/Galangxyz/Galangxyz/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
