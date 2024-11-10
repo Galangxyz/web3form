@@ -18,7 +18,7 @@ Form kontak sangat penting karena memungkinkan pengunjung menghubungi Anda langs
 Web3Forms adalah layanan API gratis yang memungkinkan Anda menambahkan form kontak ke website tanpa memerlukan backend atau server-side scripting. Layanan ini ideal untuk platform statis seperti Blogger atau GitHub Pages.
 
 # Langkah-langkah Memasang Form Kontak
-Daftar di Web3Forms
+Daftar di [Web3Forms](https://web3forms.com/#start)
 Langkah pertama adalah membuat akun di Web3Forms. Proses pendaftarannya mudah dan gratis.
 
 Setelah berhasil mendaftar, Anda akan diberikan Access Key yang akan digunakan pada form kontak Anda nanti.
