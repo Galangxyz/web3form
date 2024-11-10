@@ -14,6 +14,12 @@
 # Form Kontak
 Form kontak sangat penting karena memungkinkan pengunjung menghubungi Anda langsung melalui situs tanpa harus membuka email. Berikut langkah-langkah mudah untuk memasangnya.
 
+# Demo
+[Demo Contact Form](https://galangxyz.github.io/web3form/)
+
+# Result
+https://github.com/user-attachments/assets/3a65194e-c69d-471d-8c0c-5e5a55f79a38
+
 # Apa Itu Web3Forms?
 Web3Forms adalah layanan API gratis yang memungkinkan Anda menambahkan form kontak ke website tanpa memerlukan backend atau server-side scripting. Layanan ini ideal untuk platform statis seperti Blogger atau GitHub Pages.
 
@@ -67,8 +73,9 @@ Hal ini memastikan pengunjung tahu bahwa pesan mereka telah berhasil dikirim.
 Email Konfirmasi Otomatis: Anda dapat mengirim salinan pesan ke pengirim dengan menambahkan kode ini:
 ```
 <input type="hidden" name="reply_to" value="%email%">
+```
 Kustomisasi Tampilan Form: Tambahkan CSS untuk mempercantik tampilan form sesuai desain situs Anda. Contoh sederhana:
-
+```
 css
 .field {
     margin-bottom: 15px;
