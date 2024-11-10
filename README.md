@@ -23,6 +23,7 @@ Langkah pertama adalah membuat akun di Web3Forms. Proses pendaftarannya mudah da
 
 Setelah berhasil mendaftar, Anda akan diberikan Access Key yang akan digunakan pada form kontak Anda nanti.
 
+https://github.com/user-attachments/assets/38f9000b-98ef-4e32-a238-3c950dfbf3ef
 
 # Buat Formulir HTML
 Setelah mendapatkan Access Key, buat form kontak di halaman HTML Anda. Berikut contoh form sederhana:
